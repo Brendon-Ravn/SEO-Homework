@@ -13,4 +13,6 @@ was changed, and classes were fixed.
 
 ## Installation
 
-
+repository https://github.com/Brendon-Ravn/Seo-Homework
+<br />
+website https://brendon-ravn.github.io/Seo-Homework/
